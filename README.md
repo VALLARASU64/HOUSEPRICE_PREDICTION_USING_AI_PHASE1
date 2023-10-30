@@ -1,5 +1,5 @@
-##AI_Phase wise project_Submission
-#Predicting_House_Prices using Machine_Learning
+# AI_Phase wise project_Submission
+# Predicting_House_Prices using Machine_Learning
 
 Data Source:(https://www.kaggle.com/datasets/vedavyasv/usa-housing)
 Reference:Kaggle.com (USA Housing)
